@@ -1,0 +1,1 @@
+This is the dictionary app in which you can add words on your own and can see its meaning
